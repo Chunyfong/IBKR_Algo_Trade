@@ -1,3 +1,5 @@
 ## IBKR Tws Algo Trade
 
-My Notes on how to connect to tws and pull data in general, still under development
+What this repo does:
+- Place Option Combo via IB insync
+- Get Future/Option Chain Data from Broker/data vendor/free EOD Data
